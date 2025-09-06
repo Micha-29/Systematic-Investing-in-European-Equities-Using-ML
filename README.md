@@ -21,7 +21,7 @@ The study uses the historical constituents of the **Stoxx 50 Index** with weekly
 - **Portfolio Construction:**  
   - Equal- and value-weighted benchmarks  
   - Mean-variance optimization (with and without constraints)  
-  - Constraints tested from 20–30% per asset  
+  - Constraints tested from 20–70% per asset  
 - **Validation:** Purged K-Fold with embargo (per López de Prado, 2018)  
 - **Risk Assessment:** Exposure to Fama-French 5 factors  
 
